@@ -9,3 +9,6 @@ for k > 50 (also known here as n_clusters > 50) on a casual personal computer I 
 ram usage will be high as k increases, be prepared in the larger cases (for me when I ran k = 100) up to 10 GB of ram
 
 you can use your own picture but as the resolution increases the complexity increases so be aware.
+
+to read more about algorithm  https://arxiv.org/abs/0904.1113
+
